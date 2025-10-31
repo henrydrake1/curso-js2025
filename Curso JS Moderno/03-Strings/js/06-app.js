@@ -1,0 +1,1 @@
+const producto = 'Monitor de 17 Pulgadas'
